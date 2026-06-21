@@ -1,0 +1,2 @@
+observed_tokens,tokens_with_outcomes,tokens_missing_outcomes,total_tokens,survived_2x_plus,failed_before_2x,survival_probability,survival_probability_pct
+659,657,2,657,164,493,0.2496194824961948,24.961948249619482

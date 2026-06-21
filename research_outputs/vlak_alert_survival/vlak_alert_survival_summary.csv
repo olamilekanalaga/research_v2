@@ -1,0 +1,2 @@
+observed_vlak_tokens,usable_outcome_tokens,missing_outcome_or_mc,survived_2x_after_vlak,failed_after_vlak,baseline_survival_pct,avg_post_vlak_multiple,best_post_vlak_multiple
+729,728,1,181,547,24.862637362637365,2.354831883947015,140.07303150000664

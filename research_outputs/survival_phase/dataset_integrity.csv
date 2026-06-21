@@ -1,0 +1,2 @@
+alerts_total_rows,alerts_unique_tokens,alert_filter_metric_rows,alert_filter_metric_unique_tokens,outcome_rows,outcome_unique_tokens,milestone_rows,milestone_unique_tokens,tokens_with_multiple_alert_rows,max_alert_rows_for_one_token,unit_of_analysis
+1511,659,1511,659,659,659,1475,320,436,11,"token: one first-observed alert_filter_metrics row per mint, joined to one outcomes row; outcome is 2x after first observation"
