@@ -1,0 +1,14 @@
+metric,value
+tokens_tracked,558
+tokens_ge_1_5x,103
+tokens_ge_2x,100
+tokens_ge_3x,43
+tokens_ge_4x,30
+tokens_ge_5x,25
+tokens_ge_10x,10
+eligible_first_1_5x_alerts,103
+eligible_milestone_replies,0
+already_sent_threads,0
+already_sent_milestones,0
+duplicate_thread_rows,0
+duplicate_milestone_rows,0
